@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843476500898",
+    "project_id": "bloc-photo-library-app",
+    "storage_bucket": "bloc-photo-library-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843476500898:android:9f72f36af86085791632fb",
+        "android_client_info": {
+          "package_name": "com.example.bloc_firebase_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843476500898-9kpt85fe7k151jbi1blakk60qdcin17b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDorFWNmX9k3v67Ro_qTrBkEFTgT1SWFe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843476500898-9kpt85fe7k151jbi1blakk60qdcin17b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
